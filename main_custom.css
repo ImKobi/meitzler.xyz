@@ -1,11 +1,3 @@
 h1 {
   font-family: 'Poppins', sans-serif;
 }
-
-hr {
-  border: none;
-  height: 100px;
-  /* Set the hr color */
-  color: #333;  /* old IE */
-  background-color: #333;  /* Modern Browsers */
-}
