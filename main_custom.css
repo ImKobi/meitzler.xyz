@@ -6,15 +6,3 @@ h2 {
   font-family: 'Poppins', sans-serif;
 }
 
-/*This is the Media views, so essentially we do two sites that are optimized for either desktop or mobile.*/
-@media only screen and (max-width: 800px) {
-    .hide-pc{
-        display: none;
-    }
-}
-
-@media only screen and (min-width: 800px) {
-    .hide-mobile{
-        display: none;
-    }
-}
